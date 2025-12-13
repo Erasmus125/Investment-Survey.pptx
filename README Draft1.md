@@ -18,4 +18,7 @@ For the purpose of this project, we will take the findings as being relevant to 
 Furthermore, for money variables, the currency is taken to be in American dollars ($).
 
 There were 10 variables in this dataset, and the number of respondents was 100.
+|Variable|Categories (before recoding)|
+|----------|------------|
+|Gender    |Male, Female|
 
