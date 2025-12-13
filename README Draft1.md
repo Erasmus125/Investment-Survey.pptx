@@ -8,10 +8,14 @@ This project is a data-driven analysis that uses multiple tools to explore the m
 
 ###	 1) What is the project about?
 In this project (the end-part of another assignment to learn about Cloud Azure) I explore and analyze the results of a survey done on a 100 people about their investment practices.
-About the DataSet.
+### About the DataSet.
 The data was taken from Kaggle:  https://www.kaggle.com/datasets/sudarsan27/investment-survey-dataset
+
 The dataset has no pretensions to being of world-wide relevance or of being statistically valid.  Little is known about the methodology: the survey instrument, on whom it was applied, how the population was selected, etc.  There is some ambiguity about what some of the variables, and what some of the categories mean actually mean e.g. Working/Professional.  Having access to the methodology would have been helpful in assessing the relevance of the data analysis.
+
 For the purpose of this project, we will take the findings as being relevant to a general population and of use to financial institutions or to any institution interested in getting people to invest.
+
 Furthermore, for money variables, the currency is taken to be in American dollars ($).
+
 There were 10 variables in this dataset, and the number of respondents was 100.
 
