@@ -28,7 +28,11 @@ For the purpose of this project, we will take the findings as being relevant to 
 
 Furthermore, for money variables, the currency is taken to be in American dollars ($).
 
+#### **Table 1:  Investment Survey dataset before Recoding**<br>
 There were 10 variables in this dataset, and the number of respondents was 100.
+
+<details open><summary><strong>Click to hide</strong></summary>
+ 
 |Variable|Categories (before recoding)|
 |---------------------------------------|-----------------------------------------|
 |Gender                                 |Male, Female                             |
@@ -41,6 +45,8 @@ Motivation_cause                       |Family member, Social media/ Articles, A
 |Resources_used                        |Family members/Friends, Mobile applications, News articles / Current affairs, Books, Social media/ Articles, Brokers, Investors in bank|
 |Goal for investment                   |Family member, Social media/ Articles, Agents/Investment brokers, Self Interest , No one, Friends, Self, Through Bank, Self motivation , Self , Schemes|
 |Duration_to_save (in_Years)            |0 years – 25 years.|
+
+</details>
 
 ### Technology used.
   * Power BI to clean and transform data, analyze gender differences and create an interactive dashboard.
@@ -69,7 +75,7 @@ In PowerBI, I categorized the following variables for ease of understanding.
 I first created the measure, and then the label.
 <br>
  
-### Table 1:  PowerBI Recode
+#### **Table 2:  PowerBI Recode**
 <details open>
 <summary><strong>Click to hide</strong></summary>
 
@@ -86,7 +92,7 @@ I first created the measure, and then the label.
 
 </div>
 
-**Charts 1:  Gender Differences in Investment**
+#### **Charts 1:  Gender Differences in Investment**
 <details open>
 <summary><strong>Click to hide</summary></strong>
  
@@ -94,15 +100,14 @@ I first created the measure, and then the label.
 <img width="900" height="503" alt="image" src="https://github.com/user-attachments/assets/7bbed6a1-80e0-4212-acec-4ad9c929b13c" />
 
 </details>
-
-<div align ="center">
  
- **Table 3: Highlights of Differences between Gender in Investment**
- 
-</div>
+ #### **Table 3: Highlights of Differences between Gender in Investment**
 
+<details open>
+<summary><strong>Click to hide</strong></summary>
 <img width="899" height="629" alt="image" src="https://github.com/user-attachments/assets/23ab716a-cbf8-434a-9b4f-92485edcbd96" />
 
+</details>
 
 <div align = "center">
 
@@ -113,7 +118,7 @@ The Excel part of this project is focusing on the differences in investment betw
 
 Recodes were done using a mixture of Nested IF, IFS.
 
-**Table 4: Excel Recode**
+#### **Table 4: Excel Recode**
 <img width="992" height="664" alt="image" src="https://github.com/user-attachments/assets/120e8cb8-02c4-4340-9781-d9e260a41b41" />
 <img width="991" height="387" alt="image" src="https://github.com/user-attachments/assets/4f65003f-857a-41f5-80a3-b2cb49875ca1" /> <br>
 <br>
@@ -131,6 +136,7 @@ Recodes were done using a mixture of Nested IF, IFS.
 **Table 4:  Highlights from Comparison of Investment differences between Working/Professional and Non-Working respondents.**<br>
 
 <details open>
+ 
 <summary><strong>Click to hide</summary></strong>
  
 <img width="1030" height="682" alt="image" src="https://github.com/user-attachments/assets/f6191d83-6237-4c28-9ed5-9b19ef20c0aa" />
