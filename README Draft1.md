@@ -52,9 +52,7 @@ I first created the measure, and then the label.
 
 <img width="857" height="632" alt="image" src="https://github.com/user-attachments/assets/d252c64d-6ded-427b-a08b-a94197266e5a" />
 <img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/e5e9a60f-9960-49f0-ad6a-ca555f56a03b" />
-<img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/5f4ef8aa-3b4f-487e-9523-08e098c1bd41" />``
-
-
+<img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/5f4ef8aa-3b4f-487e-9523-08e098c1bd41" />  
 
 
 <img width="902" height="542" alt="image" src="https://github.com/user-attachments/assets/f94030ac-6976-4c94-93c6-627995916e46" />
