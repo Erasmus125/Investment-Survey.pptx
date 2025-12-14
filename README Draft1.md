@@ -3,7 +3,12 @@
  # Investment Survey
 
  </div>
-Investment_Survey project description & summary
+ <br>
+ <div aligh = "center">
+  
+### Investment_Survey project description & summary
+
+</div>
 
 <img src="https://github.com/Erasmus125/Investment-Survey/blob/787cddf7d039395f21cc57efc066a4a08a86acdc/Images%20ReadMe/HeaderImage.jpg" width="1000" height="500">
 Investors play a crucial role in the economy by facilitating wealth creation, funding businesses, and contributing to financial stability and growth.  Investors are integral to economic growth, financial security, and community development. By understanding the importance of investing, individuals can make informed decisions that enhance their financial futures and contribute to the overall health of the economy
