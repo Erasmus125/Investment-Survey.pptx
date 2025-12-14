@@ -70,7 +70,7 @@ I first created the measure, and then the label.
 <br>
  
 ### Table 1:  PowerBI Recode
-<details>
+<details open>
 <summary><strong>Click to expand</strong></summary>
 
 <img width="857" height="632" alt="image" src="https://github.com/user-attachments/assets/d252c64d-6ded-427b-a08b-a94197266e5a" />
