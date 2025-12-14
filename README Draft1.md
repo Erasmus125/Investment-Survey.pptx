@@ -13,12 +13,7 @@ This project is a data-driven analysis that uses multiple tools to explore the m
 ###	 1) What is the project about?
 In this project (the end-part of another assignment to learn about Cloud Azure) I explore and analyze the results of a survey done on a 100 people about their investment practices.
 ### About the DataSet.
-The [original Investment Survey data](https://github.com/Erasmus125/Investment-Survey/blob/a86066a7a52772fe0896c34b9adacd29365a6a8a/investment_survey_csv.csv) 
-The [original Investment Survey data](https://github.com/Erasmus125/Investment-Survey/blob/a86066a7a52772fe0896c34b9adacd29365a6a8a/investment_survey_csv.csv)
-
-(https://github.com/Erasmus125/Investment-Survey/blob/a86066a7a52772fe0896c34b9adacd29365a6a8a/investment_survey_csv.csv) was taken from Kaggle:  https://www.kaggle.com/datasets/sudarsan27/investment-survey-dataset
-[](url)
-[](url)
+The [original Investment Survey data](https://github.com/Erasmus125/Investment-Survey/blob/a86066a7a52772fe0896c34b9adacd29365a6a8a/investment_survey_csv.csv) was taken from [Kaggle](https://www.kaggle.com/datasets/sudarsan27/investment-survey-dataset)
 
 The dataset has no pretensions to being of world-wide relevance or of being statistically valid.  Little is known about the methodology: the survey instrument, on whom it was applied, how the population was selected, etc.  There is some ambiguity about what some of the variables, and what some of the categories mean actually mean e.g. Working/Professional.  Having access to the methodology would have been helpful in assessing the relevance of the data analysis.
 
