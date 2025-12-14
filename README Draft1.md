@@ -68,14 +68,19 @@ But I’m only giving differences between genders here.
 In PowerBI, I categorized the following variables for ease of understanding.
 I first created the measure, and then the label.
 <br>
-### Table 1:  PowerBI Recode
 
-**ddddd**
+<details>
+<summary><strong>Click to expand</strong></summary>
+ 
+### Table 1:  PowerBI Recode
 
 <img width="857" height="632" alt="image" src="https://github.com/user-attachments/assets/d252c64d-6ded-427b-a08b-a94197266e5a" />
 <img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/e5e9a60f-9960-49f0-ad6a-ca555f56a03b" />
 <img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/5f4ef8aa-3b4f-487e-9523-08e098c1bd41" /> 
 <br/><br/>
+
+</details>
+
 <div align ="center">
  
 ### **By Gender**
