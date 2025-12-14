@@ -19,7 +19,7 @@ Furthermore, for money variables, the currency is taken to be in American dollar
 
 There were 10 variables in this dataset, and the number of respondents was 100.
 |Variable|Categories (before recoding)|
-|-----------------------------------------|-----------------------------------------------------|
+|---------------------------------------|-----------------------------------------|
 |Gender                                 |Male, Female                             |
 |Age                                   |Range:  18 years -56 years                |
 |Working Professional                  |0,1                                       |
@@ -49,3 +49,12 @@ Link to PowerBI
 But I’m only giving differences between genders here.
 In PowerBI, I categorized the following variables for ease of understanding.
 I first created the measure, and then the label.
+
+|Variable Recoded   |Categories created   |DAX code   |
+|-------------------|------------------------|---------------------------------------------------
+|Age Quartile       |Q1:  18-25 years
+Q2:  26-34 years
+Q3: 35-42 years
+Q4: 43-60 years.|
+
+<img width="857" height="632" alt="image" src="https://github.com/user-attachments/assets/d252c64d-6ded-427b-a08b-a94197266e5a" />
