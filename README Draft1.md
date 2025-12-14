@@ -6,10 +6,9 @@
 Investment_Survey project description & summary
 
 <img src="https://github.com/Erasmus125/Investment-Survey/blob/787cddf7d039395f21cc57efc066a4a08a86acdc/Images%20ReadMe/HeaderImage.jpg" width="1000" height="500">
-Investors play a crucial role in the economy by facilitating wealth creation, funding businesses, and contributing to financial stability and growth.  Investors are integral to economic growth, financial security, and community development. By understanding the importance of investing, individuals can make informed decisions that enhance their financial futures and contribute to the overall health of the economy 
-[Search: Why are investors important](https://www.bing.com/search?q=why+are+investors+important&form=ANNTH1&refig=693c67466d5f49a9a7124e4d56428715&pc=LCTS&pq=why+are+invest&pqlth=14&assgl=27&sgcn=why+are+investors+important&qs=UT&sgtpv=UT&smvpcn=0&swbcn=10&sctcn=0&sc=10-14&sp=2&ghc=0&cvid=693c67466d5f49a9a7124e4d56428715&clckatsg=1&hsmssg=0)
+Investors play a crucial role in the economy by facilitating wealth creation, funding businesses, and contributing to financial stability and growth.  Investors are integral to economic growth, financial security, and community development. By understanding the importance of investing, individuals can make informed decisions that enhance their financial futures and contribute to the overall health of the economy
 
-[Why are investors important](https://www.bing.com/search q=why+are+investors+important&form=ANNTH1&refig=693c67466d5f49a9a7124e4d56428715&pc=LCTS&pq=why+are+invest&pqlth=14&assgl=27&sgcn=why+are+investors+important&qs=UT&sgtpv=UT&smvpcn=0&swbcn=10&sctcn=0&sc=10-14&sp=2&ghc=0&cvid=693c67466d5f49a9a7124e4d56428715&clckatsg=1&hsmssg=0):
+[Search: Why are investors important](https://www.bing.com/search?q=why+are+investors+important&form=ANNTH1&refig=693c67466d5f49a9a7124e4d56428715&pc=LCTS&pq=why+are+invest&pqlth=14&assgl=27&sgcn=why+are+investors+important&qs=UT&sgtpv=UT&smvpcn=0&swbcn=10&sctcn=0&sc=10-14&sp=2&ghc=0&cvid=693c67466d5f49a9a7124e4d56428715&clckatsg=1&hsmssg=0)
 
 This project is a data-driven analysis that uses multiple tools to explore the motivations that impel people to invest, how they invest and on what they invest.
 
