@@ -85,4 +85,17 @@ I first created the measure, and then the label.
 <img width="899" height="629" alt="image" src="https://github.com/user-attachments/assets/23ab716a-cbf8-434a-9b4f-92485edcbd96" />
 
 
+<div align = "center">
+
+### **Excel for an Exploration of Investment differences amongst Working Professional/Not Working.**
+
+</div>
+
+<img width="992" height="664" alt="image" src="https://github.com/user-attachments/assets/120e8cb8-02c4-4340-9781-d9e260a41b41" />
+<img width="991" height="387" alt="image" src="https://github.com/user-attachments/assets/4f65003f-857a-41f5-80a3-b2cb49875ca1" /> <br>
+
+<img width="1125" height="562" alt="image" src="https://github.com/user-attachments/assets/222eb7c4-2e97-4a5a-80d6-314cdd57f2b5" />
+
+
+
 
