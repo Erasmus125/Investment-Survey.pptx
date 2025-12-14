@@ -86,7 +86,7 @@ I first created the measure, and then the label.
 
 </div>
 
-**Charts:  Differences between Genders in Investment**
+**Charts 1:  Gender Differences in Investment**
 <details open>
 <summary><strong>Click to hide</summary></strong>
  
@@ -97,7 +97,7 @@ I first created the measure, and then the label.
 
 <div align ="center">
  
- **Table 2: Highlights of Differences between Gender in Investment**
+ **Table 3: Highlights of Differences between Gender in Investment**
  
 </div>
 
@@ -109,13 +109,33 @@ I first created the measure, and then the label.
 ### **Excel for an Exploration of Investment differences amongst Working Professional/Not Working.**
 
 </div>
+The Excel part of this project is focusing on the differences in investment between those who are not working and those who are Working/Professional.
 
+Recodes were done using a mixture of Nested IF, IFS.
+
+**Table 4: Excel Recode**
 <img width="992" height="664" alt="image" src="https://github.com/user-attachments/assets/120e8cb8-02c4-4340-9781-d9e260a41b41" />
 <img width="991" height="387" alt="image" src="https://github.com/user-attachments/assets/4f65003f-857a-41f5-80a3-b2cb49875ca1" /> <br>
 <br>
+
+**Chart 3: [Excel Dashboard](https://github.com/Erasmus125/Investment-Survey/blob/b77a7c5c3996770f875d01ae94fa2b8d45e2eceb/Investment_survey_ExcelDashboard.xlsx)**<br>
+
+<details open>
+<summary><strong>Click to hide</summary></strong>
+
 <img width="1125" height="562" alt="image" src="https://github.com/user-attachments/assets/222eb7c4-2e97-4a5a-80d6-314cdd57f2b5" /> <br>
 <br>
+
+</details>
+
+**Table 4:  Highlights from Comparison of Investment differences between Working/Professional and Non-Working respondents.**<br>
+
+<details open>
+<summary><strong>Click to hide</summary></strong>
+ 
 <img width="1030" height="682" alt="image" src="https://github.com/user-attachments/assets/f6191d83-6237-4c28-9ed5-9b19ef20c0aa" />
+
+</details>
 
 <details>
   <summary><strong>Click to expand</strong></summary>
