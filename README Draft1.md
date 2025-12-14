@@ -20,13 +20,13 @@ Furthermore, for money variables, the currency is taken to be in American dollar
 There were 10 variables in this dataset, and the number of respondents was 100.
 |Variable|Categories (before recoding)|
 |-----------------------------------------|-----------------------------------------------------|
-|Gender                                   |Male, Female                                         |
-|Age                                   |Range:  18 years -56 years                                       |
+|Gender                                 |Male, Female                             |
+|Age                                   |Range:  18 years -56 years                |
 |Working Professional                  |0,1                                       |
-|Annual Income                                  |0 (40%) - $600,000                                       |
-|Mode_of_investment                                   |Banking, Stocks, Mutual Funds, Crypto currency, Not prepared , Gold/Other Materials, Marketing , Real estate, Bonds, Chit fund                                       |
-|Age                                   |Range:  18 years -56 years                                       |
-|Age                                   |Range:  18 years -56 years                                       |
+|Annual Income                         |0 (40%) - $600,000                        |
+|Mode_of_investment                    |Banking, Stocks, Mutual Funds, Crypto currency, Not prepared , Gold/Other Materials, Marketing , Real estate, Bonds, Chit fund        |
+|Investment_per_month                                   |$0 - $30,000                                       |
+Motivation_cause                                  |Family member, Social media/ Articles, Agents/Investment brokers, Self Interest , No one, Friends, Self, Through Bank, Self motivation , Self , Schemes                                      |
 |Age                                   |Range:  18 years -56 years                                       |
 |Age                                   |Range:  18 years -56 years                                       |
 |Age                                   |Range:  18 years -56 years                                       |
