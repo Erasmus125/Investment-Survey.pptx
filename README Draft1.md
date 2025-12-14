@@ -43,7 +43,11 @@ Motivation_cause                       |Family member, Social media/ Articles, A
 
 ### 2)	Why this project matters
 The goal was to inform media and investment companies on how to effectively target potential investors based on demographics such as gender and employment status AND to understand what drives people to invest.
+<div align="center">
+
 ### 3)	Major findings.
+
+</div>
 Major findings of this project included that women are more cautious investors than men:  women are significantly more likely than men to invest in stable institutions such as banks and in precious materials such as gold.  This should help financial institutions market their portfolios accordingly.  There are also significant differences on what pushes men and women to invest:  personal savings being a primary incentive for women, and wealth generation for men.
 
 Women are more likely to be motivated by family to invest, whereas men are more likely to be motivated by social media and friends.  Family is a major source of investment advice for both men and women, but men are significantly more likely than women to use mobile applications and news articles or current affairs as resources for investment.  These findings can guide financial institutions on how to reach out to potential investors.
