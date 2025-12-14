@@ -71,7 +71,7 @@ I first created the measure, and then the label.
  
 ### Table 1:  PowerBI Recode
 <details open>
-<summary><strong>Click to expand</strong></summary>
+<summary><strong>Click to hide</strong></summary>
 
 <img width="857" height="632" alt="image" src="https://github.com/user-attachments/assets/d252c64d-6ded-427b-a08b-a94197266e5a" />
 <img width="899" height="645" alt="image" src="https://github.com/user-attachments/assets/e5e9a60f-9960-49f0-ad6a-ca555f56a03b" />
@@ -86,13 +86,19 @@ I first created the measure, and then the label.
 
 </div>
 
+**Charts:  Differences between Genders in Investment**
+<details open>
+<summary><strong>Click to hide
+ 
 <img width="902" height="542" alt="image" src="https://github.com/user-attachments/assets/f94030ac-6976-4c94-93c6-627995916e46" /> <br>
 <img width="900" height="503" alt="image" src="https://github.com/user-attachments/assets/7bbed6a1-80e0-4212-acec-4ad9c929b13c" />
 
+</summary></strong>
+
 <div align ="center">
  
-### **Gender differences in Investment**
-
+ **Table 2: Highlights of Differences between Gender in Investment**
+ 
 </div>
 
 <img width="899" height="629" alt="image" src="https://github.com/user-attachments/assets/23ab716a-cbf8-434a-9b4f-92485edcbd96" />
