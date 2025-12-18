@@ -213,7 +213,7 @@ Thanks to GitHub ReadMe, I was introduced to HTML and Markup Language – someth
 o	Creating measures I needed in Power BI using DAX within time constraints.  Not used to using PowerBI to create categories.<br>
 o	Getting the following pop-up in PowerBI **everytime** I clicked anywhere on PowerBI, so my work was doubled.
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/5ea8823f-bde5-4bbc-b224-69f73d2c236b" /><br>
-o	Losing all my Excel work for SQL and having to start all over again.  But I was thankful I’d commented on my work in SQL, because that make things a LOT easier.
+o	Losing all my Excel work for SQL and having to start all over again.  But I was thankful I’d commented on my work in SQL, because that made things a LOT easier.
 
 
 
